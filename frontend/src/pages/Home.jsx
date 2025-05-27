@@ -5,7 +5,7 @@ import Navbar from "../components/Navbar";
 function Home() {
     return ( 
     <div>
-        <Navbar/>
+       
         
         {/* Hero */}
       <section className="pt-28 md:pt-32 bg-white text-center px-6">
